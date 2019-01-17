@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="discord-league-bot:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c11dc996-8861-4201-a24f-af5c861e9984" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/discord_league_bot_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discord-league-bot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DiscordBot/BotConfig.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TournamentBot" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/BotConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/ApiConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Bot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PLATFORM</find>
+      <find>select</find>
+      <find>id :</find>
+      <find>$</find>
+      <find>help</find>
+      <find>put</find>
+      <find>suc</find>
+      <find>add</find>
+      <find>successfully invited</find>
+      <find>setteam</find>
+      <find>addmemb</find>
+      <find>setleader</find>
+      <find>to create a</find>
+      <find>you need to link</find>
+      <find>set</find>
+      <find>not_linked</find>
+      <find>getteam</find>
+      <find>syntaxerror</find>
+      <find>of</find>
+      <find>GREEN</find>
+      <find>scrim</find>
+      <find>tournament</find>
+      <find>create</find>
+      <find>twisted</find>
+      <find>getre</find>
+      <find>consol</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/URI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/Requests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/RestRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/ParamTypeRef.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/RestRequestBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/TournamentCreator/Tournament.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/Tournament/TournamentMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BotConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Bot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Events.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Events/Events.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Events/GuildMemberJoinEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Events/MemberJoinEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Events/Member.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Events/Summoner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/Summoner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/ApiConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/LeagueServicesStatus/LeagueServicesStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Database.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/NonExistingCommandException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/UnexistingCommandException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Events/BotJoinsServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/SummonerException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/RegionException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/CommandWrongSyntaxException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/CommandSyntaxErrorException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/Summoner/Summoner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/DelayException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/TeamException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/SelfMessagingException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Events/PMCommands.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/TournamentUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/TournamentManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/TournamentException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Tournament.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Checks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/ExceptionConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Events/ChatCommands.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Team.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/Tournament/TournamentBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/Bot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/imrashb/DiscordBot/Bot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/imrashb/DiscordBot/BotConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/imrashb/DiscordBot/Checks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/imrashb/DiscordBot/Database.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/RiotAPI/ApiConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DiscordBot/BotConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="527" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TournamentBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TournamentBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="TournamentBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TournamentBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TournamentBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TournamentBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TournamentBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TournamentBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="TournamentBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TournamentBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TournamentBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TournamentBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DiscordBot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TournamentBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TournamentBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="RiotAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547711268541" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DiscordBot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.TournamentBot [bootJar]">
+    <configuration name="Bot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiscordBot.Bot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.imrashb.DiscordBot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TournamentBot [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TournamentBot [fatJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="fatJar" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TournamentBot [gradle wrapper]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="gradle" />
+            <option value="wrapper" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TournamentBot [shadowJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="shadowJar" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bot" />
+        <item itemvalue="Gradle.TournamentBot [bootJar]" />
+        <item itemvalue="Gradle.TournamentBot [shadowJar]" />
+        <item itemvalue="Gradle.TournamentBot [gradle wrapper]" />
+        <item itemvalue="Gradle.TournamentBot [fatJar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c11dc996-8861-4201-a24f-af5c861e9984" name="Default Changelist" comment="" />
+      <created>1547328479487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547328479487</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24052005" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.26218852" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49946696" weight="0.29577464" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.14179105" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.aries.spec/org.apache.aries.javax.jax.rs-api/1.0.3/205a37c4d3e3811a94db7112bd79320ed3c06b67/org.apache.aries.javax.jax.rs-api-1.0.3-sources.jar!/javax/ws/rs/client/ClientFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Value.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Quote.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeagueAPI/Post.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Post.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/PostList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/RequestTypes.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/LeagueServicesStatus/GetLeagueServicesStatus.java" />
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.9.RELEASE/c19005e8a2a2216b0e9da304f1dce8ba0d72e110/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/http/ResponseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="81" column="7" lean-forward="true" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/ParamTypeRef.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/RestRequestBuilder.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.0.9.RELEASE/c19005e8a2a2216b0e9da304f1dce8ba0d72e110/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="137" column="11" selection-start-line="137" selection-start-column="11" selection-end-line="137" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/Utils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/LeagueServicesStatus/Services.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/LeagueServicesStatus/LeagueServicesStatus.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Events/BotJoinsServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/SummonerException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/UnexistingCommandException.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.dv8tion/JDA/4.ALPHA.0_7/b75b0d83fcb954394a6459e888efffc08f4f2e6d/JDA-4.ALPHA.0_7-sources.jar!/net/dv8tion/jda/api/hooks/ListenerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="305" selection-start-line="305" selection-end-line="305" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.dv8tion/JDA/4.ALPHA.0_7/b75b0d83fcb954394a6459e888efffc08f4f2e6d/JDA-4.ALPHA.0_7-sources.jar!/net/dv8tion/jda/api/entities/TextChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/Summoner/Summoner.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/DelayException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/CommandSyntaxErrorException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/SelfMessagingException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/RegionException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/ApiConstants.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Events/PMCommands.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/TournamentException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/TeamException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Checks.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Database.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Events/ChatCommands.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Exceptions/ExceptionConstants.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Team.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/TournamentUser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Tournament.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/Tournament/TournamentBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/imrashb/DiscordBot/BotConfig.java" />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/imrashb/RiotAPI/ApiConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/imrashb/DiscordBot/BotConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/imrashb/DiscordBot/Bot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/imrashb/DiscordBot/Checks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/imrashb/DiscordBot/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/Bot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RiotAPI/ApiConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DiscordBot/BotConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="bootJar" />
+    <option value="shadowJar" />
+    <option value="fatJar" />
+    <option value="gradle wrapper" />
+    <option value="gradle fatJar" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>discord-league-bot:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|me.imrashb.discord-league-bot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

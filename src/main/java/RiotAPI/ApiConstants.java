@@ -46,7 +46,6 @@ public class ApiConstants {
 
     //https://developer.riotgames.com/api-methods/#tournament-stub-v4
     public final static String TOURNAMENT_CREATE_CODE = "/lol/tournament-stub/v4/codes";
-    public final static String TOURNAMENT_GET_EVENTS = "/lol/tournament-stub/v4/lobby-events/by-code/";
     public final static String TOURNAMENT_CREATE_PROVIDER = "/lol/tournament-stub/v4/providers";
     public final static String TOURNAMENT_CREATE_TOURNAMENT = "/lol/tournament-stub/v4/tournaments";
     public final static String GET_SUMMONER_BY_NAME = "/lol/summoner/v4/summoners/by-name/";
